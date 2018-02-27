@@ -1,0 +1,33 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/dist/vuedemo/.eslintrc.js" />
+        <item url="file://$PROJECT_DIR$/dist/vuedemo/dist/static/js/app.0598128b70e6ef5039fa.js" />
+        <item url="file://$PROJECT_DIR$/dist/vuedemo/dist/static/js/manifest.2ae2e69a05c33dfc65f8.js" />
+        <item url="file://$PROJECT_DIR$/dist/vuedemo/dist/static/js/vendor.8226f675e046df334018.js" />
+        <item url="file://$PROJECT_DIR$/dist/vuedemo/src-base/main.js" />
+        <item url="file://$PROJECT_DIR$/dist/vuedemo/src-base1/main.js" />
+        <item url="file://$PROJECT_DIR$/dist/vuedemo/src-base1/utils/storageUtil.js" />
+        <item url="file://$PROJECT_DIR$/dist/vuedemo/src-todos/main.js" />
+        <item url="file://$PROJECT_DIR$/dist/vuedemo/src-todos/storageUtil.js" />
+        <item url="file://$PROJECT_DIR$/dist/vuedemo/src/StorageUtil.js" />
+        <item url="file://$PROJECT_DIR$/dist/vuedemo/src/main.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/dist/vuedemo/.eslintrc.js" />
+      <root url="file://$PROJECT_DIR$/dist/vuedemo/dist/static/js/app.0598128b70e6ef5039fa.js" />
+      <root url="file://$PROJECT_DIR$/dist/vuedemo/dist/static/js/manifest.2ae2e69a05c33dfc65f8.js" />
+      <root url="file://$PROJECT_DIR$/dist/vuedemo/dist/static/js/vendor.8226f675e046df334018.js" />
+      <root url="file://$PROJECT_DIR$/dist/vuedemo/src-base/main.js" />
+      <root url="file://$PROJECT_DIR$/dist/vuedemo/src-base1/main.js" />
+      <root url="file://$PROJECT_DIR$/dist/vuedemo/src-base1/utils/storageUtil.js" />
+      <root url="file://$PROJECT_DIR$/dist/vuedemo/src-todos/main.js" />
+      <root url="file://$PROJECT_DIR$/dist/vuedemo/src-todos/storageUtil.js" />
+      <root url="file://$PROJECT_DIR$/dist/vuedemo/src/StorageUtil.js" />
+      <root url="file://$PROJECT_DIR$/dist/vuedemo/src/main.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
